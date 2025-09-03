@@ -5,7 +5,7 @@ import java.util.Scanner;
 public class data {
     public static void main(String[] args) {
         Scanner scanner = new Scanner(System.in);
-        
+        //input data
         String nama = scanner.nextLine();
         String nim = scanner.nextLine();
         int angkatan = scanner.nextInt();
